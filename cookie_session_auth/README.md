@@ -149,10 +149,3 @@ curl -b cookies.txt http://localhost:3000/auth/logout
 - Thêm xác thực đầu vào (validation) và rate-limiting cho các route auth.
 - Thêm test tự động (script hoặc test tích hợp) kiểm tra flow register → login → profile → logout.
 
----
-
-Nếu bạn muốn, tôi có thể:
-- Tạo một script PowerShell tự động chạy toàn bộ flow và lưu cookies,
-- Hoặc copy các ảnh sang thư mục dự án này để dùng đường dẫn đơn giản hơn.
-
-Chỉ cần nói bạn muốn tiếp theo là gì.
